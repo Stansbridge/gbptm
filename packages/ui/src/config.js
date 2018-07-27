@@ -65,10 +65,6 @@ export default {
           name: 'Non-customers permitted',
           value: 'permissive',
         },
-        {
-          name: 'Customers only',
-          value: 'customers only',
-        },
       ],
     },
   },
